@@ -1,0 +1,27 @@
+C:\AVANS\Jaar 4\Afstuderen\IFM C# example\Bewerkt C#\IFM console\IFM console\bin\Debug\netcoreapp3.1\IFM console.exe
+C:\AVANS\Jaar 4\Afstuderen\IFM C# example\Bewerkt C#\IFM console\IFM console\bin\Debug\netcoreapp3.1\IFM console.deps.json
+C:\AVANS\Jaar 4\Afstuderen\IFM C# example\Bewerkt C#\IFM console\IFM console\bin\Debug\netcoreapp3.1\IFM console.runtimeconfig.json
+C:\AVANS\Jaar 4\Afstuderen\IFM C# example\Bewerkt C#\IFM console\IFM console\bin\Debug\netcoreapp3.1\IFM console.runtimeconfig.dev.json
+C:\AVANS\Jaar 4\Afstuderen\IFM C# example\Bewerkt C#\IFM console\IFM console\bin\Debug\netcoreapp3.1\IFM console.dll
+C:\AVANS\Jaar 4\Afstuderen\IFM C# example\Bewerkt C#\IFM console\IFM console\bin\Debug\netcoreapp3.1\IFM console.pdb
+C:\AVANS\Jaar 4\Afstuderen\IFM C# example\Bewerkt C#\IFM console\IFM console\obj\Debug\netcoreapp3.1\IFM console.csproj.AssemblyReference.cache
+C:\AVANS\Jaar 4\Afstuderen\IFM C# example\Bewerkt C#\IFM console\IFM console\obj\Debug\netcoreapp3.1\IFM console.AssemblyInfoInputs.cache
+C:\AVANS\Jaar 4\Afstuderen\IFM C# example\Bewerkt C#\IFM console\IFM console\obj\Debug\netcoreapp3.1\IFM console.AssemblyInfo.cs
+C:\AVANS\Jaar 4\Afstuderen\IFM C# example\Bewerkt C#\IFM console\IFM console\obj\Debug\netcoreapp3.1\IFM console.csproj.CoreCompileInputs.cache
+C:\AVANS\Jaar 4\Afstuderen\IFM C# example\Bewerkt C#\IFM console\IFM console\obj\Debug\netcoreapp3.1\IFM console.dll
+C:\AVANS\Jaar 4\Afstuderen\IFM C# example\Bewerkt C#\IFM console\IFM console\obj\Debug\netcoreapp3.1\IFM console.pdb
+C:\AVANS\Jaar 4\Afstuderen\IFM C# example\Bewerkt C#\IFM console\IFM console\obj\Debug\netcoreapp3.1\IFM console.genruntimeconfig.cache
+C:\AVANS\Jaar 4\Afstuderen\IFM console\IFM console\bin\Debug\netcoreapp3.1\IFM console.exe
+C:\AVANS\Jaar 4\Afstuderen\IFM console\IFM console\bin\Debug\netcoreapp3.1\IFM console.deps.json
+C:\AVANS\Jaar 4\Afstuderen\IFM console\IFM console\bin\Debug\netcoreapp3.1\IFM console.runtimeconfig.json
+C:\AVANS\Jaar 4\Afstuderen\IFM console\IFM console\bin\Debug\netcoreapp3.1\IFM console.runtimeconfig.dev.json
+C:\AVANS\Jaar 4\Afstuderen\IFM console\IFM console\bin\Debug\netcoreapp3.1\IFM console.dll
+C:\AVANS\Jaar 4\Afstuderen\IFM console\IFM console\bin\Debug\netcoreapp3.1\IFM console.pdb
+C:\AVANS\Jaar 4\Afstuderen\IFM console\IFM console\obj\Debug\netcoreapp3.1\IFM console.csproj.AssemblyReference.cache
+C:\AVANS\Jaar 4\Afstuderen\IFM console\IFM console\obj\Debug\netcoreapp3.1\IFM console.GeneratedMSBuildEditorConfig.editorconfig
+C:\AVANS\Jaar 4\Afstuderen\IFM console\IFM console\obj\Debug\netcoreapp3.1\IFM console.AssemblyInfoInputs.cache
+C:\AVANS\Jaar 4\Afstuderen\IFM console\IFM console\obj\Debug\netcoreapp3.1\IFM console.AssemblyInfo.cs
+C:\AVANS\Jaar 4\Afstuderen\IFM console\IFM console\obj\Debug\netcoreapp3.1\IFM console.csproj.CoreCompileInputs.cache
+C:\AVANS\Jaar 4\Afstuderen\IFM console\IFM console\obj\Debug\netcoreapp3.1\IFM console.dll
+C:\AVANS\Jaar 4\Afstuderen\IFM console\IFM console\obj\Debug\netcoreapp3.1\IFM console.pdb
+C:\AVANS\Jaar 4\Afstuderen\IFM console\IFM console\obj\Debug\netcoreapp3.1\IFM console.genruntimeconfig.cache
